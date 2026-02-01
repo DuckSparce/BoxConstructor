@@ -129,14 +129,3 @@ BoxConstructor.exe  # Windows
 5. **Financial Analysis**: Calculate monthly income and business outcomes (salaries, taxes, etc.)
 6. **Managing Prices**: Modify material prices in the pricing table as needed
 7. **Sorting**: Use the sort button to organize orders by different criteria
-
-## Academic Context
-
-- **Course**: Object-Oriented Programming (OOP)
-- **Semester**: 3
-- **Type**: Coursework Project
-- **Institution**: University
-
-## License
-
-This is an academic project developed for educational purposes.
